@@ -1,0 +1,15 @@
+/home/kali/Coding/IT/csharp/bin/Debug/net6.0/csharp
+/home/kali/Coding/IT/csharp/bin/Debug/net6.0/csharp.deps.json
+/home/kali/Coding/IT/csharp/bin/Debug/net6.0/csharp.runtimeconfig.json
+/home/kali/Coding/IT/csharp/bin/Debug/net6.0/csharp.dll
+/home/kali/Coding/IT/csharp/bin/Debug/net6.0/csharp.pdb
+/home/kali/Coding/IT/csharp/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/home/kali/Coding/IT/csharp/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Coding/IT/csharp/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/home/kali/Coding/IT/csharp/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/home/kali/Coding/IT/csharp/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/home/kali/Coding/IT/csharp/obj/Debug/net6.0/csharp.dll
+/home/kali/Coding/IT/csharp/obj/Debug/net6.0/refint/csharp.dll
+/home/kali/Coding/IT/csharp/obj/Debug/net6.0/csharp.pdb
+/home/kali/Coding/IT/csharp/obj/Debug/net6.0/csharp.genruntimeconfig.cache
+/home/kali/Coding/IT/csharp/obj/Debug/net6.0/ref/csharp.dll
